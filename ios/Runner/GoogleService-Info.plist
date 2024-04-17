@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>232026489680-lg01spnjvcrc23ns14b2jm8m9fb5g646.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.232026489680-lg01spnjvcrc23ns14b2jm8m9fb5g646</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAjGAx9QdovR7wZ73SU_5kYvUi85-R08bg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>232026489680</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.realEstate</string>
+	<key>PROJECT_ID</key>
+	<string>sample-b5dbc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sample-b5dbc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:232026489680:ios:469fafdf511efadaeca255</string>
+	<key>DATABASE_URL</key>
+	<string>https://sample-b5dbc-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
